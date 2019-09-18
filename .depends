@@ -1,0 +1,3 @@
+nucleotide.o: nucleotide.cpp nucleotide.h
+main.o: main.cpp dnaSeq.h nucleotide.h test.h
+test.o: test.cpp test.h dnaSeq.h nucleotide.h

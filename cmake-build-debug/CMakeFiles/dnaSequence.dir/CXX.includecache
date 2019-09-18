@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tameer/CLionProjects/dnaSequence/dnaSeq.cpp
+dnaSeq.h
+/home/tameer/CLionProjects/dnaSequence/dnaSeq.h
+
+/home/tameer/CLionProjects/dnaSequence/dnaSeq.h
+iostream
+-
+stdlib.h
+-
+string.h
+/home/tameer/CLionProjects/dnaSequence/string.h
+nucleotide.h
+/home/tameer/CLionProjects/dnaSequence/nucleotide.h
+
+/home/tameer/CLionProjects/dnaSequence/main.cpp
+iostream
+-
+dnaSeq.h
+/home/tameer/CLionProjects/dnaSequence/dnaSeq.h
+test.h
+/home/tameer/CLionProjects/dnaSequence/test.h
+
+/home/tameer/CLionProjects/dnaSequence/nucleotide.h
+iostream
+-
+
+/home/tameer/CLionProjects/dnaSequence/test.cpp
+test.h
+/home/tameer/CLionProjects/dnaSequence/test.h
+dnaSeq.h
+/home/tameer/CLionProjects/dnaSequence/dnaSeq.h
+fstream
+-
+iostream
+-
+
+/home/tameer/CLionProjects/dnaSequence/test.h
+
